@@ -1,0 +1,4 @@
+1:collect "Negative" or "background" images
+2: collect or  create "positive" images
+3: Create a positive vector file by stitching together all positives
+4: train cascade
